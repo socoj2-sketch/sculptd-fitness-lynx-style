@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sculptd-fitness-lynx-style.amplifyapp.com/sitemap.xml
